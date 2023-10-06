@@ -1,0 +1,30 @@
+{
+  "Labels": {
+    "simpTable": "SimpTable",
+    "objectCreate": " Create Object ",
+    "objectName": "Object Name",
+    "fieldName": "Field Name",
+    "pageLayout": "Page Layout",
+    "dataType": "Data Type",
+    "isUnique": "Unique",
+    "addField": "Add Field",
+    "action": "Action",
+    "save": "Save",
+    "editObject": "Edit Object",
+    "deleteObject": "Delete Object",
+    "permanetlyDeleteText": "To confirm deletion, type -Permanently Delete- in the text input field.",
+    "delete": "Delete",
+    "close": "Close",
+    "fieldOption": "Field Option",
+    "optionName": "Option Name",
+    "optionList": "Option Lists",
+    "add": "Add",
+    "deleteField": "Delete Field",
+    "updateField": "Update Field",
+    "reset": "Reset",
+    "editField": "Edit Fields for the Object",
+    "createField": "Create Fields for the Object",
+    "objectUpdate": "Update",
+    "simpsoftSolutionsPvtLtd": "Simpsoft Solutions Pvt. Ltd."
+  }
+}

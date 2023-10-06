@@ -1,0 +1,13 @@
+[
+  { "key": "AddCircleOutlineIcon", "filename": "AddCircleOutlineIcon.png" },
+  { "key": "HubIcon", "filename": "icons8-hub-48.png" },
+  { "key": "FaTrash", "filename": "Fa_trash.png" },
+  { "key": "FaEdit", "filename": "Faedit.png" },
+  { "key": "ExpandLess", "filename": "expand_less_icon.png" },
+  { "key": "ExpandMore", "filename": "ExpandMore.png" },
+  {
+    "key": "FeaturedPlayListOutlinedIcon",
+    "filename": "FeaturedPlayListOutlinedIcon.png"
+  },
+  { "key": "AddIcon", "filename": "AddIcon.png" }
+]

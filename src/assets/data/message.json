@@ -1,0 +1,30 @@
+[
+  { "message_text": "Are you sure, you want to delete this {param_1}?" },
+  { "message_text": "{param_1} can't be blank !!" },
+  { "message_text": "Please select {param_1} !!" },
+  { "message_text": "Please select location of the stop!!" },
+  {
+    "message_text": "Please check your activity list, some are not filled properly !!"
+  },
+  { "message_text": "Invalid Email Id!" },
+  { "message_text": "Invalid URL!" },
+  { "message_text": "Invalid Contact No." },
+  { "message_text": "Are you sure, want to delete this image?" },
+  { "message_text": "{param_1} already exist !!" },
+  { "message_text": "Data has been saved successfully!!" },
+  { "message_text": "Duplicate {param_1}" },
+  { "message_text": "Password not match with Confirm Password !!" },
+  { "message_text": "Please accept the Privacy Policy and Term of Use" },
+  { "message_text": "No record found!!" },
+  { "message_text": "Something goes wrong" },
+  { "message_text": "Invalid request" },
+  { "message_text": "Do you want to add more files?" },
+  { "message_text": "Maximum  {param_1} files ar allowed to upload." },
+  { "message_text": "Password has been changed successfully !!" },
+  { "message_text": "Record removed successfully!!" },
+  {
+    "message_text": "Password has been changed successfully. Please re-login in system. "
+  },
+  { "message_text": " Invalid Credentials!!" },
+  { "message_text": "" }
+]
